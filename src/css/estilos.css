@@ -131,7 +131,7 @@ body {
     height: 360px;
 }
 
-.modal-aberto {
+.modal.aberto {
     opacity: 1;
     visibility: visible;
 }
